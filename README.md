@@ -8,7 +8,7 @@ The certificate also covers how to navigate Jira’s interfaces, customize workf
 
 By completing this course, learners gain a solid foundation in Agile principles and practical experience with Jira, empowering them to manage projects more efficiently, adapt to changes quickly, and deliver high-quality results. It equips professionals to collaborate with cross-functional teams, prioritize work based on business needs, and deliver value to customers in a faster, more iterative manner.
 
-## Practical Benefits of these Certificates**
+## Practical Benefits of these Certificates
 
 The practical benefits of obtaining the **Agile with Atlassian Jira** certificate are numerous, both in terms of skill development and career advancement. One of the primary benefits is the ability to apply Agile project management methodologies, which are highly sought after in various industries today. Agile methodologies, like Scrum and Kanban, help teams to be more adaptable, efficient, and responsive to changes, which is crucial in today's fast-paced business environment.
 
@@ -41,4 +41,4 @@ If you have any questions or suggestions, feel free to reach out:
 - **Email:** [dradnanfarzandali@gmail.com](mailto:dradnanfarzandali@gmail.com)
 - **LinkedIn:** [Dr. Adnan Farzand Ali (PhD)](https://www.linkedin.com/in/dradnanfarzandali)
 
-Thank you for visiting my Google Professional Certificates!
+Thank you for visiting my Agile with Atlassian Jira Certificate!

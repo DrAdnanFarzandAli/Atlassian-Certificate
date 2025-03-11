@@ -1,4 +1,4 @@
-#Agile with Atlassian Jira Certificate
+# Agile with Atlassian Jira Certificate
 
 The **"Agile with Atlassian Jira"** certificate is designed to provide learners with a comprehensive understanding of Agile project management principles and how to implement them using the Atlassian Jira tool. This course is ideal for professionals who want to learn how to manage projects more efficiently using Agile methodologies and Jira’s suite of features. The certificate focuses on both the theoretical and practical aspects of Agile project management, helping individuals enhance their project management skills by applying them in real-world scenarios.
 

@@ -8,7 +8,7 @@ The certificate also covers how to navigate Jira’s interfaces, customize workf
 
 By completing this course, learners gain a solid foundation in Agile principles and practical experience with Jira, empowering them to manage projects more efficiently, adapt to changes quickly, and deliver high-quality results. It equips professionals to collaborate with cross-functional teams, prioritize work based on business needs, and deliver value to customers in a faster, more iterative manner.
 
-## Practical Benefits of these Certificates
+## Practical Benefits of This Certificate
 
 The practical benefits of obtaining the **Agile with Atlassian Jira** certificate are numerous, both in terms of skill development and career advancement. One of the primary benefits is the ability to apply Agile project management methodologies, which are highly sought after in various industries today. Agile methodologies, like Scrum and Kanban, help teams to be more adaptable, efficient, and responsive to changes, which is crucial in today's fast-paced business environment.
 
@@ -18,7 +18,7 @@ Additionally, this certificate helps improve communication and collaboration amo
 
 Furthermore, the certificate shows your commitment to continuous learning and professional development. Employers value certifications as they reflect an individual's willingness to invest in their career and stay current with best practices. It can help differentiate you in the job market, increase your job prospects, and open doors to leadership or specialized project management roles.
 
-## How Can I Improve My Role as a Project Manager?**
+## How Can I Improve My Role as a Project Manager?
 
 To improve your role as a project manager, acquiring skills related to Agile methodologies and tools like Jira is essential. Project management is a constantly evolving field, and keeping up with the latest trends and technologies can significantly enhance your effectiveness. Here’s how you can use the knowledge gained from the **Agile with Atlassian Jira** certificate to improve your role as a project manager:
 
